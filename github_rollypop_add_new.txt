@@ -3,3 +3,23 @@ Add new memo
 new file make
 
 I'll make differnt memo.
+
+publish branch
+
+-----------------------------------------------------------------------------------------
+@ -2,4 +2,6 @@ Add new memo
+
+
+new file make
+
+
+I'll make differnt memo.
+
+I'll make differnt memo.
+ (중복문장발생)
+
+
+publish branch
+-----------------------------------------------------------------------------------------
+
+commit and merge
